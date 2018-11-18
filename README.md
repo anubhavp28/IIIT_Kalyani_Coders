@@ -7,7 +7,7 @@
 I admit, the code quality is poor, but in my defence, I was bounded by time - it was created under 36-hour. 
 
 ## Description
-For HACK-A-BIT Hackathon 2018, I created a News Aggregator that uses Machine Learning model to check news articles for biased content. It furthur, utilises sentiment analysis to understand the type of bias - 'positive' or 'negative'. Any news search made through the app, returns news articles along with their classification, and if a certain news article is biased, the app provides the user, a link to another news article providing a different perspective. The app also offers functionality to analyse news article by URL. 
+For HACK-A-BIT Hackathon 2018, I created a News Aggregator that uses Machine Learning to check news articles for biased content. It furthur, utilises sentiment analysis to understand the type of bias - 'positive' or 'negative'. Any news search made through the app, returns news articles along with their classification, and if a certain news article is found to be biased, the app provides the users, with additonal news articles providing a different perspective. The app also offers functionality to analyse a news article by it's URL. 
 
 ## Screenshot
 See Latest News | Search News by Topic | Analyse by URL
